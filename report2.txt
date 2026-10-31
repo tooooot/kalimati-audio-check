@@ -1,0 +1,108 @@
+L_q_00	Cow.
+L_q_01	Cued.
+L_q_02	Kicks.
+L_q_10	Cue.
+L_q_11	Q.
+L_q_12	Cool.
+L_q_20	Letter Q.
+L_q_21	Letter Q.
+L_q_22	Letter Q.
+L_q_30	QQ.
+L_q_31	QQ.
+L_q_32	QQN.
+L_u_00	Ooh!
+L_u_01	Ooh.
+L_u_02	Ooh!
+L_u_10	Ooh!
+L_u_11	Ooh!
+L_u_12	Oh!
+L_u_20	Letter U.
+L_u_21	Letter U.
+L_u_22	Letter U.
+L_u_30	Ooh, ooh.
+L_u_31	Ooh! Ooh!
+L_u_32	Ooh! Ooh!
+L_y_00	Bye!
+L_y_01	E
+L_y_02	E.
+L_y_10	Bye!
+L_y_11	I.
+L_y_12	Bye!
+L_y_20	Letter Y.
+L_y_21	Letter Y.
+L_y_22	Letter Y.
+L_y_30	E-E.
+L_y_31	Ee.
+L_y_32	E-E-E-E.
+L_z_00	Set.
+L_z_01	Step.
+L_z_02	That.
+L_z_10	Just.
+L_z_11	Sigh.
+L_z_12	Sa.
+L_z_20	Letter Z'd.
+L_z_21	Letter Z.
+L_z_22	Letter Z.
+L_z_30	That, that.
+L_z_31	said Zed.
+L_z_32	That's a...
+W_Bear_00	There.
+W_Bear_01	bear.
+W_Bear_02	Bear.
+W_Bear_10	There!
+W_Bear_11	BEAR!
+W_Bear_12	There!
+W_Bear_20	There.
+W_Bear_21	bear.
+W_Bear_22	There.
+W_Bear_30	Bear Bear
+W_Bear_31	Bear, bear.
+W_Bear_32	Bear Bear
+W_Bed_00	bed.
+W_Bed_01	Bed
+W_Bed_02	Bed
+W_Bed_10	BED!
+W_Bed_11	BED!
+W_Bed_12	BED!
+W_Bed_20	Bed.
+W_Bed_21	Bed
+W_Bed_22	bed.
+W_Bed_30	Bed Bed
+W_Bed_31	Bed, bed.
+W_Bed_32	Bed Bed
+W_Duck_00	Dock
+W_Duck_01	Duck
+W_Duck_02	Doc.
+W_Duck_10	Doc!
+W_Duck_11	DUCK!
+W_Duck_12	Doc!
+W_Duck_20	Duck.
+W_Duck_21	DOC
+W_Duck_22	Doc.
+W_Duck_30	DOCK! DOCK!
+W_Duck_31	Duck Duck.
+W_Duck_32	Duck Duck
+W_Hat_00	Hot.
+W_Hat_01	Hot.
+W_Hat_02	Hot.
+W_Hat_10	Hot!
+W_Hat_11	Hat!
+W_Hat_12	HUT!
+W_Hat_20	Hot.
+W_Hat_21	Hot.
+W_Hat_22	Hot!
+W_Hat_30	hot hat
+W_Hat_31	Hot, hot.
+W_Hat_32	Hot hat.
+W_Parrots_00	Parrots
+W_Parrots_01	Parents
+W_Parrots_02	Parrots
+W_Parrots_10	parrots
+W_Parrots_11	parrots
+W_Parrots_12	parrots
+W_Parrots_20	parrots
+W_Parrots_21	Parents
+W_Parrots_22	Parents
+W_Parrots_30	parrots parrots
+W_Parrots_31	parrots parrots
+W_Parrots_32	parrots parrots
