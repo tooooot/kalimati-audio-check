@@ -1,0 +1,133 @@
+letters_ind	a	A.
+letters_ind	b	B.
+letters_ind	c	C.
+letters_ind	d	D.
+letters_ind	e	E
+letters_ind	f	F.
+letters_ind	g	G.
+letters_ind	h	H.
+letters_ind	i	I.
+letters_ind	j	J
+letters_ind	k	K.
+letters_ind	l	L.
+letters_ind	m	M.
+letters_ind	n	N.
+letters_ind	o	Oh!
+letters_ind	p	P.
+letters_ind	q	Key.
+letters_ind	r	R.
+letters_ind	s	S.
+letters_ind	t	T.
+letters_ind	u	Ooh.
+letters_ind	v	V.
+letters_ind	w	W.
+letters_ind	x	X.
+letters_ind	y	E.
+letters_ind	z	The.
+letters_cut	a	uh-huh, ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah
+letters_cut	b	Spelling letters of the alphabet.
+letters_cut	c	Spelling letters of the alphabet.
+letters_cut	d	Spelling letters of the alphabet.
+letters_cut	e	Spelling letters of the alphabet.
+letters_cut	f	Spelling letters of the alphabet.
+letters_cut	g	Spelling letters of the alphabet.
+letters_cut	h	Spelling letters of the alphabet.
+letters_cut	i	Spelling letters of the alphabet.
+letters_cut	j	Spelling letters of the alphabet.
+letters_cut	k	Spelling letters of the alphabet.
+letters_cut	l	Spelling letters of the alphabet.
+letters_cut	m	Spelling letters of the alphabet.
+letters_cut	n	Spelling letters of the alphabet.
+letters_cut	o	Spelling letters of the alphabet.
+letters_cut	p	Spelling letters of the alphabet.
+letters_cut	q	Spelling letters of the alphabet.
+letters_cut	r	Spelling letters of the alphabet.
+letters_cut	s	Spelling letters of the alphabet.
+letters_cut	t	Spelling letters of the alphabet.
+letters_cut	u	Spelling letters of the alphabet.
+letters_cut	v	Spelling letters of the alphabet.
+letters_cut	w	Spelling letters of the alphabet.
+letters_cut	x	Spelling letters of the alphabet.
+letters_cut	y	Spelling letters of the alphabet.
+letters_cut	z	Spelling letters of the alphabet.
+words	Again	again.
+words	Apple	Apple
+words	Bags	Bags.
+words	Bear	There!
+words	Bed	Bad.
+words	Black	black.
+words	Blue	blue.
+words	Books	Books.
+words	Brother	Brother
+words	Brown	Brown
+words	Camels	Camels
+words	Circle	Circle.
+words	Clap	Clap.
+words	Close	Close.
+words	Color	color.
+words	Cow	Cow
+words	Dad	Dad?
+words	Diamond	Diamond
+words	Doctor	Dr.
+words	Duck	Doc.
+words	Ears	Ears.
+words	Egg	Egg
+words	Eight	8
+words	Eraser	Eraser
+words	Eyes	eyes.
+words	Family	Family.
+words	Fine	Fine.
+words	Finger	FINGER
+words	Fish	fish.
+words	Five	5.
+words	Four	4
+words	Friend	Friend
+words	Goat	GOAT
+words	Good-bye	Goodbye.
+words	Grandma	Grandma.
+words	Grandpa	Grandpa
+words	Green	Green.
+words	Hands	Hands.
+words	Hat	Hot.
+words	Head	Head
+words	Hi	Hi.
+words	Ink	INK!
+words	Jet	JET.
+words	Jumping	Jumping
+words	Knees	Knees.
+words	Letter	Letter.
+words	Lion	Lion
+words	Little	Little
+words	Mom	Mom.
+words	Monkeys	Monkeys.
+words	Mouth	MOUTH
+words	My_name	My name.
+words	Nine	9
+words	Nose	nose
+words	Notebook	Notebook
+words	One	1
+words	Open	OPEN!
+words	Orange	Orange.
+words	Parrots	Parents
+words	Pen	pen
+words	Pencils	Pencils
+words	Pink	pink.
+words	Purple	purple.
+words	Rainbow	Rainbow.
+words	Rectangle	Rectangle
+words	Red	Red.
+words	Seven	7.
+words	Shape	shape.
+words	Shoulders	Shoulders.
+words	Sister	Sister.
+words	Six	6
+words	Square	Square.
+words	Star	star.
+words	Ten	10
+words	Three	3
+words	Toes	Toes
+words	Triangle	triangle.
+words	Two	2.
+words	White	White
+words	Window	Window
+words	Yellow	Yellow.
