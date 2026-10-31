@@ -1,0 +1,41 @@
+letters_final	a	A.
+letters_final	b	B.
+letters_final	c	C.
+letters_final	d	D.
+letters_final	e	E
+letters_final	f	F.
+letters_final	g	G.
+letters_final	h	H.
+letters_final	i	I.
+letters_final	j	J
+letters_final	k	K.
+letters_final	l	L.
+letters_final	m	M.
+letters_final	n	N.
+letters_final	o	Oh!
+letters_final	p	P.
+letters_final	q	Cue.
+letters_final	r	R.
+letters_final	s	S.
+letters_final	t	T.
+letters_final	u	Letter U.
+letters_final	v	V.
+letters_final	w	W.
+letters_final	x	X.
+letters_final	y	Letter Y.
+letters_final	z	Letter Z.
+variants2	Bear-fast	BEAR!
+variants2	Bear-slow	There!
+variants2	Bear	BEAR!
+variants2	Bed-fast	bed.
+variants2	Bed-slow	Bed
+variants2	Bed	bed.
+variants2	Duck-fast	Duck!
+variants2	Duck-slow	Doc!
+variants2	Duck	DUCK!
+variants2	Hat-fast	Hat!
+variants2	Hat-slow	HAT!
+variants2	Hat	Hat!
+variants2	Parrots-fast	Parrots
+variants2	Parrots-slow	parents.
+variants2	Parrots	Parrots
