@@ -1,18 +1,22 @@
-name: check-audio
+name: ctx-audio
 on:
-  push:
-    paths-ignore: [report.txt, report2.txt, report3.txt, report4.txt]
   workflow_dispatch:
 permissions: {contents: write}
 jobs:
-  check:
+  run:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - run: pip install faster-whisper
-      - run: python check.py
+      - name: generate missing context clips
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python gen_ctx.py
+      - name: verify full sentences (ASR)
+        run: python check.py
       - run: |
           git config user.name bot; git config user.email bot@example.com
-          git add report4.txt; git commit -m "report" || true; git push || true
+          git add -A; git commit -m "ctx audio + report5" || true; git push || true
