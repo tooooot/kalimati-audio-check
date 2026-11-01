@@ -1,0 +1,16 @@
+name: arabi-audio
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  g:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 arabi/gen.py
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      - run: |
+          git config user.name bot; git config user.email bot@x
+          git add arabi/out && git commit -m "arabi audio" && git push
