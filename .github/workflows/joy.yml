@@ -1,0 +1,14 @@
+name: joy-sample
+on: {workflow_dispatch: {}}
+permissions: {contents: write}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python3 gen_joy.py
+      - run: |
+          git config user.name bot; git config user.email bot@example.com
+          git add -A; git commit -m "joy sample" || true; git push || true
