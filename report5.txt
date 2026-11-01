@@ -2,22 +2,54 @@ again_f	again	Look! Look! Again!
 again_j	Again	Hooray, again!
 again_n	again	The word is again.
 again_s	again	Listen carefully, again.
-apple_f	apple	Look, look, apple!
+animal_f	animal	Look, look, animal!
+animal_j	Animal	Hooray, animal!
+animal_n	animal	The word is animal.
+animal_s	animal	Listen carefully, Animal.
+ant_f	ant	Look, look, Ant!
+ant_j	Ant	Hooray, ant!
+ant_n	ant	The word is ant.
+ant_s	ant	Listen carefully and
+apple_f	apple	Look! Look! Apple!
 apple_j	Apple	Hooray, Apple!
 apple_n	apple	The word is apple.
 apple_s	apple	Listen carefully, Apple.
+bag_f	bag	Look, look, bag!
+bag_j	Bag	Hooray, bag!
+bag_n	bag	The word is bag.
+bag_s	bag	Listen carefully. BAG.
 bags_f	bags	Look! Look! Bags!
 bags_j	Bags	Hooray, bags!
 bags_n	bags	The word is bags.
 bags_s	bags	Listen carefully. Bags.
+ball_f	ball	Look, look, fall!
+ball_j	Ball	Hooray, Ball!
+ball_n	ball	The word is ball.
+ball_s	ball	Listen carefully. Ball.
+banana_f	banana	Look, look, banana!
+banana_j	Banana	Hooray, Banana!
+banana_n	banana	The word is banana.
+banana_s	banana	Listen carefully. Banana.
+bat_f	bat	Look! Look! Bat!
+bat_j	Bat	Hooray, bat!
+bat_n	bat	The word is bat.
+bat_s	bat	Listen carefully. Bat.
 bear_f	bear	Look, look, there!
 bear_j	Bear	Hooray Bear!
 bear_n	bear	The word is bear.
-bear_s	bear	Listen carefully. Bear.
+bear_s	bear	Listen carefully, bear.
 bed_f	bed	Look, look, bed!
 bed_j	Bed	Hooray, Bed!
 bed_n	bed	The word is bed.
 bed_s	bed	Listen carefully. Bed.
+big_f	big	Look! Look! Big!
+big_j	Big	Hooray! Big!
+big_n	big	The word is big.
+big_s	big	Listen carefully. Big.
+bird_f	bird	Look! Look! Bird!
+bird_j	Bird	Hooray, bird!
+bird_n	bird	The word is bird.
+bird_s	bird	Listen carefully, bird.
 black_f	black	Look! Look! Black!
 black_j	Black	Hooray, Black!
 black_n	black	The word is black.
@@ -26,22 +58,54 @@ blue_f	blue	Look! Look! Blue!
 blue_j	Blue	Hooray! Blue!
 blue_n	blue	The word is blue.
 blue_s	blue	Listen carefully. Blue.
+boat_f	boat	Look! Look! Boat!
+boat_j	Boat	Hooray, boat!
+boat_n	boat	The word is boat.
+boat_s	boat	Listen carefully. Boat.
+book_f	book	Look! Look! Book!
+book_j	Book	Hooray, book!
+book_n	book	The word is book.
+book_s	book	Listen carefully. Book.
 books_f	books	Look, look, books!
 books_j	Books	Hooray, books!
 books_n	books	The word is books.
 books_s	books	Listen carefully. Books.
+box_f	box	Look! Look! Box!
+box_j	Box	Hooray! Box!
+box_n	box	The word is box.
+box_s	box	Listen carefully. Box.
+bread_f	bread	Look, look, bread!
+bread_j	Bread	Hooray, bread!
+bread_n	bread	The word is bread.
+bread_s	bread	Listen carefully. Bread.
 brother_f	brother	Look, look, brother!
 brother_j	Brother	Hooray, Brother!
 brother_n	brother	The word is brother.
 brother_s	brother	Listen carefully, brother.
-brown_f	brown	Look, look, Brown.
+brown_f	brown	Look, look, brown.
 brown_j	Brown	Hooray, Brown!
 brown_n	brown	The word is brown.
 brown_s	brown	Listen carefully. Brown.
-camels_f	camels	Look! Look! Camels!
+bus_f	bus	Look, look, bus!
+bus_j	Bus	Hooray bus!
+bus_n	bus	The word is bus.
+bus_s	bus	Listen carefully. Bus.
+cake_f	cake	Look, look! Cake!
+cake_j	Cake	Hooray, cake!
+cake_n	cake	The word is cake.
+cake_s	cake	Listen carefully. Cake.
+camels_f	camels	Look, look, camels!
 camels_j	Camels	Hooray, camels!
 camels_n	camels	The word is camels.
 camels_s	camels	Listen carefully, camels.
+cat_f	cat	Look, look, cat!
+cat_j	Cat	Hooray, cat!
+cat_n	cat	The word is cat.
+cat_s	cat	Listen carefully, cat.
+chair_f	chair	Look, look, chair!
+chair_j	Chair	Hooray, Chair!
+chair_n	chair	The word is chair.
+chair_s	chair	Listen carefully. Chair.
 circle_f	circle	Look, look, circle!
 circle_j	Circle	Hooray, circle!
 circle_n	circle	The word is circle.
@@ -51,9 +115,13 @@ clap_j	Clap	Hooray, clap!
 clap_n	clap	The word is clap.
 clap_s	clap	Listen carefully. Clap.
 close_f	close	Look, look, close!
-close_j	Close	Hooray! Close!
+close_j	Close	Hooray, close!
 close_n	close	The word is close.
 close_s	close	Listen carefully, close.
+cold_f	cold	Look! Look! Cold!
+cold_j	Cold	Hooray, cold!
+cold_n	cold	The word is cold.
+cold_s	cold	Listen carefully. Cold.
 color_f	color	Look, look, color!
 color_j	Color	Hooray, color!
 color_n	color	The word is color.
@@ -62,6 +130,10 @@ cow_f	cow	Look, look, cow!
 cow_j	Cow	Hooray, cow!
 cow_n	cow	The word is cow.
 cow_s	cow	Listen carefully, cow.
+cup_f	cup	Look, look, cup!
+cup_j	Cup	Hooray! CUP!
+cup_n	cup	The word is cup.
+cup_s	cup	Listen carefully. CUP.
 dad_f	dad	Look, look, Dad!
 dad_j	Dad	Hooray, Dad!
 dad_n	dad	The word is dad.
@@ -74,14 +146,34 @@ doctor_f	doctor	Look, look, doctor!
 doctor_j	Doctor	Hooray, doctor!
 doctor_n	doctor	The word is doctor.
 doctor_s	doctor	Listen carefully, doctor.
+dog_f	dog	Look, look, dog!
+dog_j	Dog	Hooray, dog!
+dog_n	dog	The word is dog.
+dog_s	dog	Listen carefully, DOG!
+door_f	door	Look, look, door!
+door_j	Door	Hooray, door!
+door_n	door	The word is door.
+door_s	door	Listen carefully. Door.
+down_f	down	Look! Look! Down!
+down_j	Down	Hooray, down!
+down_n	down	The word is down.
+down_s	down	Listen carefully. Down.
+drink_f	drink	Look, look, drink!
+drink_j	Drink	Hooray, drink!
+drink_n	drink	The word is drink.
+drink_s	drink	Listen carefully. Drink.
 duck_f	duck	Look! Look! Duck!
 duck_j	Duck	Hooray, Doc!
 duck_n	duck	The word is duck.
 duck_s	duck	Listen carefully. Duck.
-ears_f	ears	Look! Look! Ears!
-ears_j	Ears	Hooray, ears!
+ears_f	ears	Look, look, ears!
+ears_j	Ears	Hooray ears!
 ears_n	ears	The word is ears.
 ears_s	ears	Listen carefully, ears.
+eat_f	eat	Look, look, eat!
+eat_j	Eat	Hooray! Eat!
+eat_n	eat	The word is eat.
+eat_s	eat	Listen carefully. Eat.
 egg_f	egg	Look, look! Egg!
 egg_j	Egg	Hooray, Egg!
 egg_n	egg	The word is egg.
@@ -102,6 +194,14 @@ family_f	family	Look, look, family!
 family_j	Family	Hooray, family!
 family_n	family	The word is family.
 family_s	family	Listen carefully, family.
+fast_f	fast	Look, look fast!
+fast_j	Fast	Hooray fast!
+fast_n	fast	The word is fast.
+fast_s	fast	Listen carefully. Fast.
+father_f	father	Look, look, Father!
+father_j	Father	Hooray, Father!
+father_n	father	The word is father.
+father_s	father	Listen carefully, Father.
 fine_f	fine	Look, look, fine!
 fine_j	Fine	Hooray, fine!
 fine_n	fine	The word is fine.
@@ -109,7 +209,7 @@ fine_s	fine	Listen carefully. Fine.
 finger_f	finger	Look, look, finger!
 finger_j	Finger	Hooray, finger!
 finger_n	finger	The word is finger.
-finger_s	finger	Listen carefully, finger.
+finger_s	finger	Listen carefully. Finger.
 fish_f	fish	Look, look, fish!
 fish_j	Fish	Hooray fish!
 fish_n	fish	The word is fish.
@@ -118,14 +218,26 @@ five_f	five	Look! Look! Five!
 five_j	Five	Hooray, five!
 five_n	five	The word is five.
 five_s	five	Listen carefully. 5.
+flower_f	flower	Look, look, flower!
+flower_j	Flower	Hooray, Flower!
+flower_n	flower	The word is flower.
+flower_s	flower	Listen carefully. Flower.
 four_f	four	Look, look, four!
-four_j	Four	Hooray for!
+four_j	Four	Hooray for...
 four_n	four	The word is for.
-four_s	four	Listen carefully for...
+four_s	four	Listen carefully for
+fox_f	fox	Look, look, Fox!
+fox_j	Fox	Hooray, Fox!
+fox_n	fox	The word is fox.
+fox_s	fox	Listen carefully, Fox.
 friend_f	friend	Look, look, friend.
 friend_j	Friend	Hooray, friend.
 friend_n	friend	The word is friend.
 friend_s	friend	Listen carefully, friend.
+garden_f	garden	Look! Look! Garden!
+garden_j	Garden	Hooray! Garden!
+garden_n	garden	The word is garden.
+garden_s	garden	Listen carefully. Garden.
 goat_f	goat	Look! Look! Goat!
 goat_j	Goat	Hooray, goat!
 goat_n	goat	The word is goat.
@@ -146,10 +258,18 @@ green_f	green	Look! Look! Green!
 green_j	Green	Hooray! Green!
 green_n	green	The word is green.
 green_s	green	Listen carefully. Green.
+hand_f	hand	Look, look, hand!
+hand_j	Hand	Hooray, hand!
+hand_n	hand	The word is hand.
+hand_s	hand	Listen carefully. Hand.
 hands_f	hands	Look, look, hands!
 hands_j	Hands	Hooray, hands!
 hands_n	hands	The word is hands.
 hands_s	hands	Listen carefully. Hands.
+happy_f	happy	Look, look, happy!
+happy_j	Happy	Hooray, happy!
+happy_n	happy	The word is happy.
+happy_s	happy	Listen carefully. Happy.
 hat_f	hat	Look, look, hat!
 hat_j	Hat	Hooray, hat!
 hat_n	hat	The word is hat.
@@ -158,10 +278,26 @@ head_f	head	Look! Look! Head!
 head_j	Head	Hooray, head!
 head_n	head	The word is head.
 head_s	head	Listen carefully. Head.
+hello_f	hello	Look, look, hello?
+hello_j	Hello	Hooray, hello!
+hello_n	hello	The word is hello.
+hello_s	hello	Listen carefully. Hello.
+hen_f	hen	Look! Look! Hen!
+hen_j	Hen	Hooray! Hen!
+hen_n	hen	The word is hen.
+hen_s	hen	Listen carefully, hen.
 hi_f	hi	Look, look, hi!
 hi_j	Hi	Hooray! Hi!
 hi_n	hi	The word is high.
 hi_s	hi	Listen carefully. Hi.
+hot_f	hot	Look, look hot!
+hot_j	Hot	Hooray! Hot!
+hot_n	hot	The word is hot.
+hot_s	hot	Listen carefully. Hot.
+house_f	house	Look, look, house!
+house_j	House	Hooray, house!
+house_n	house	The word is house.
+house_s	house	Listen carefully. House.
 ink_f	ink	Look, look, ink!
 ink_j	Ink	Hooray, Ink!
 ink_n	ink	The word is ink.
@@ -170,6 +306,10 @@ jet_f	jet	Look! Look! Jet!
 jet_j	Jet	Hooray, Jet!
 jet_n	jet	The word is jet.
 jet_s	jet	Listen carefully. Jet.
+jump_f	jump	Look, look, jump!
+jump_j	Jump	Hooray, jump!
+jump_n	jump	The word is jump.
+jump_s	jump	Listen carefully. Jump.
 jumping_f	jumping	Look! Look! Jumping!
 jumping_j	Jumping	Hooray, jumping!
 jumping_n	jumping	The word is jumping.
@@ -178,26 +318,50 @@ knees_f	knees	Look, look! Knees!
 knees_j	Knees	Hooray! Knees!
 knees_n	knees	The word is knees.
 knees_s	knees	Listen carefully. Knees.
+leg_f	leg	Look, look, leg!
+leg_j	Leg	Hooray, leg!
+leg_n	leg	The word is leg.
+leg_s	leg	Listen carefully. Leg.
 letter_f	letter	Look, look, letter!
-letter_j	Letter	Hooray! Letter!
+letter_j	Letter	Hooray, letter!
 letter_n	letter	The word is letter.
 letter_s	letter	Listen carefully. Letter.
 lion_f	lion	Look! Look! Lion!
 lion_j	Lion	Hooray, Lion!
 lion_n	lion	The word is lion.
 lion_s	lion	Listen carefully, Lion.
-little_f	little	Look! Look! Little!
+little_f	little	Look, look, little!
 little_j	Little	Hooray, little!
 little_n	little	The word is little.
-little_s	little	Listen carefully. Little.
-mom_f	mom	Look! Look! Mom!
+little_s	little	Listen carefully, little.
+map_f	map	Look, look, map!
+map_j	Map	Hooray! Map!
+map_n	map	The word is map.
+map_s	map	Listen carefully. Map.
+milk_f	milk	Look, look, milk!
+milk_j	Milk	Hooray, milk!
+milk_n	milk	The word is milk.
+milk_s	milk	Listen carefully. Milk.
+mom_f	mom	Look, look, Mom!
 mom_j	Mom	Hooray, Mom!
 mom_n	mom	The word is mom.
 mom_s	mom	Listen carefully, Mom.
 monkeys_f	monkeys	Look, look, monkeys!
 monkeys_j	Monkeys	Hooray, monkeys!
 monkeys_n	monkeys	The word is monkeys.
-monkeys_s	monkeys	Listen carefully, Monkeys.
+monkeys_s	monkeys	Listen carefully, monkeys.
+moon_f	moon	Look! Look! Moon!
+moon_j	Moon	Hooray! Moon!
+moon_n	moon	The word is moon.
+moon_s	moon	Listen carefully. Moon.
+morning_f	morning	Look, look, morning!
+morning_j	Morning	Hooray, morning!
+morning_n	morning	The word is morning.
+morning_s	morning	Listen carefully. Morning.
+mother_f	mother	Look, look, mother!
+mother_j	Mother	Hooray, mother!
+mother_n	mother	The word is mother.
+mother_s	mother	Listen carefully, Mother.
 mouth_f	mouth	Look! Look! Mouth!
 mouth_j	Mouth	Hooray! Mouth!
 mouth_n	mouth	The word is mouth.
@@ -206,10 +370,18 @@ my-name_f	my name	Look! Look! My name!
 my-name_j	My name	Hooray, my name!
 my-name_n	my name	The word is my name.
 my-name_s	my name	Listen carefully, my name.
+net_f	net	Look, look, net!
+net_j	Net	Hooray, Net!
+net_n	net	The word is net.
+net_s	net	Listen carefully. Net.
 nine_f	nine	Look, look! Nine!
 nine_j	Nine	Hooray, 9!
 nine_n	nine	The word is nine.
-nine_s	nine	Listen carefully. Nine.
+nine_s	nine	Listen carefully, 9.
+no_f	no	Look, look, no!
+no_j	No	Hooray, no!
+no_n	no	The word is no.
+no_s	no	Listen carefully, no.
 nose_f	nose	Look, look, nose!
 nose_j	Nose	Hooray! Nose!
 nose_n	nose	The word is nose.
@@ -233,15 +405,23 @@ orange_s	orange	Listen carefully, Orange.
 parrots_f	parrots	Look, look, parrots!
 parrots_j	Parrots	Hooray, parrots!
 parrots_n	parrots	The word is parents.
-parrots_s	parrots	Listen carefully, parents.
+parrots_s	parrots	Listen carefully, parrots.
 pen_f	pen	Look, look, pen!
 pen_j	Pen	Hooray, Penn!
 pen_n	pen	The word is pen.
 pen_s	pen	Listen carefully. Pen.
+pencil_f	pencil	Look, look, pencil!
+pencil_j	Pencil	Hooray, pencil!
+pencil_n	pencil	The word is pencil.
+pencil_s	pencil	Listen carefully, pencil.
 pencils_f	pencils	Look, look, pencils!
 pencils_j	Pencils	Hooray, pencils!
 pencils_n	pencils	The word is pencils.
 pencils_s	pencils	Listen carefully, pencils.
+pig_f	pig	Look, look, pig!
+pig_j	Pig	Hooray, pig!
+pig_n	pig	The word is pig.
+pig_s	pig	Listen carefully, pig.
 pink_f	pink	Look, look, pink!
 pink_j	Pink	Hooray, Pink!
 pink_n	pink	The word is pink.
@@ -250,10 +430,18 @@ purple_f	purple	Look, look, purple!
 purple_j	Purple	Hooray! Purple!
 purple_n	purple	The word is purple.
 purple_s	purple	Listen carefully. Purple.
+rain_f	rain	Look! Look! Rain!
+rain_j	Rain	Hooray! Rain!
+rain_n	rain	The word is RAIN.
+rain_s	rain	Listen carefully. Rain.
 rainbow_f	rainbow	Look! Look! Rainbow!
-rainbow_j	Rainbow	Hooray, Rainbow!
+rainbow_j	Rainbow	Hooray, rainbow!
 rainbow_n	rainbow	The word is rainbow.
 rainbow_s	rainbow	Listen carefully. Rainbow.
+read_f	read	Look, look, read!
+read_j	Read	Hooray! Red!
+read_n	read	The word is red.
+read_s	read	Listen carefully. Read.
 rectangle_f	rectangle	Look, look, rectangle!
 rectangle_j	Rectangle	Hooray! Rectangle!
 rectangle_n	rectangle	The word is rectangle.
@@ -262,26 +450,58 @@ red_f	red	Look! Look! Red!
 red_j	Red	Hooray, Red!
 red_n	red	The word is red.
 red_s	red	Listen carefully. Read.
+run_f	run	Look! Look! Run!
+run_j	Run	Hooray, run!
+run_n	run	The word is run.
+run_s	run	Listen carefully. Run.
+sad_f	sad	Look, look, sad.
+sad_j	Sad	Hooray, sad.
+sad_n	sad	The word is sad.
+sad_s	sad	Listen carefully, sad.
+school_f	school	Look, look, school!
+school_j	School	Hooray, school!
+school_n	school	The word is school.
+school_s	school	Listen carefully. School.
 seven_f	seven	Look, look! Seven!
 seven_j	Seven	Hooray! Seven!
 seven_n	seven	The word is seven.
-seven_s	seven	Listen carefully. Seven.
+seven_s	seven	Listen carefully. 7.
 shape_f	shape	Look, look, shape!
 shape_j	Shape	Hooray! Shape!
 shape_n	shape	The word is shape.
 shape_s	shape	Listen carefully. Shape.
+shoe_f	shoe	Look! Look! Shoo!
+shoe_j	Shoe	Hooray! Shoo!
+shoe_n	shoe	The word is shoe.
+shoe_s	shoe	Listen carefully. Shoo.
 shoulders_f	shoulders	Look, look, shoulders!
 shoulders_j	Shoulders	Hooray! Shoulders!
 shoulders_n	shoulders	The word is shoulders.
 shoulders_s	shoulders	Listen carefully. Shoulders.
+sing_f	sing	Look, look, sing!
+sing_j	Sing	Hooray, sing!
+sing_n	sing	The word is sing.
+sing_s	sing	Listen carefully, sing.
 sister_f	sister	Look, look, sister!
 sister_j	Sister	Hooray, sister!
 sister_n	sister	The word is sister.
-sister_s	sister	Listen carefully, sister.
+sister_s	sister	Listen carefully, Sister.
 six_f	six	Look, look, six!
 six_j	Six	Hooray! Six!
 six_n	six	The word is six.
 six_s	six	Listen carefully. Six.
+sleep_f	sleep	Look, look, sleep!
+sleep_j	Sleep	Hooray! Sleep!
+sleep_n	sleep	The word is sleep.
+sleep_s	sleep	Listen carefully, sleep.
+slow_f	slow	Look, look, slow.
+slow_j	Slow	Hooray! Slow!
+slow_n	slow	The word is slow.
+slow_s	slow	Listen carefully, slow.
+small_f	small	Look, look, small.
+small_j	Small	Hooray, small!
+small_n	small	The word is small.
+small_s	small	Listen carefully, small.
 square_f	square	Look! Look! Square!
 square_j	Square	Hooray, Square!
 square_n	square	The word is square.
@@ -290,6 +510,18 @@ star_f	star	Look, look, star!
 star_j	Star	Hooray, star!
 star_n	star	The word is STAR.
 star_s	star	Listen carefully, star.
+summer_f	summer	Look, look, summer!
+summer_j	Summer	Hooray, summer!
+summer_n	summer	The word is summer.
+summer_s	summer	Listen carefully. Summer.
+sun_f	sun	Look, look, son!
+sun_j	Sun	Hooray, son!
+sun_n	sun	The word is son.
+sun_s	sun	Listen carefully, son.
+teacher_f	teacher	Look, look, teacher!
+teacher_j	Teacher	Hooray, teacher!
+teacher_n	teacher	The word is teacher.
+teacher_s	teacher	Listen carefully, teacher.
 ten_f	ten	Look, look, ten!
 ten_j	Ten	Hooray, 10!
 ten_n	ten	The word is 10.
@@ -297,11 +529,15 @@ ten_s	ten	Listen carefully. Ten.
 three_f	three	Look! Look! Three!
 three_j	Three	Hooray! Three!
 three_n	three	The word is 3.
-three_s	three	Listen carefully. Three.
+three_s	three	Listen carefully, three.
 toes_f	toes	Look! Look! Toes!
-toes_j	Toes	Hooray toes!
+toes_j	Toes	Hooray, toes!
 toes_n	toes	The word is toes.
 toes_s	toes	Listen carefully, toes.
+tree_f	tree	Look! Look! Tree!
+tree_j	Tree	Hooray, tree!
+tree_n	tree	The word is tree.
+tree_s	tree	Listen carefully. Tree.
 triangle_f	triangle	Look, look, triangle.
 triangle_j	Triangle	Hooray, triangle!
 triangle_n	triangle	The word is triangle.
@@ -310,15 +546,35 @@ two_f	two	Look, look, too.
 two_j	Two	Hooray! Two!
 two_n	two	The word is too.
 two_s	two	Listen carefully, too.
+up_f	up	Look, look up!
+up_j	Up	Hooray! Up!
+up_n	up	The word is up.
+up_s	up	Listen carefully. Up.
+water_f	water	Look, look, water!
+water_j	Water	Hooray, water!
+water_n	water	The word is water.
+water_s	water	Listen carefully. Water.
 white_f	white	Look, look, white!
 white_j	White	Hooray, white!
 white_n	white	The word is white.
-white_s	white	Listen carefully, white.
+white_s	white	Listen carefully. White.
 window_f	window	Look! Look! Window!
 window_j	Window	Hooray, window!
 window_n	window	The word is window.
 window_s	window	Listen carefully, window.
+winter_f	winter	Look, look! Winter!
+winter_j	Winter	Hooray, winter!
+winter_n	winter	The word is winter.
+winter_s	winter	Listen carefully. Winter.
+write_f	write	Look, look, right!
+write_j	Write	Hooray, right!
+write_n	write	The word is right.
+write_s	write	Listen carefully. Write.
 yellow_f	yellow	Look, look, yellow!
 yellow_j	Yellow	Hooray, yellow!
 yellow_n	yellow	The word is yellow.
 yellow_s	yellow	Listen carefully, Yellow.
+yes_f	yes	Look! Look! Yes!
+yes_j	Yes	Hooray, yes!
+yes_n	yes	The word is yes.
+yes_s	yes	Listen carefully, yes.
