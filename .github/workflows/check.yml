@@ -15,6 +15,10 @@ jobs:
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: python gen_ctx.py
+      - name: arabic meanings
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python gen_ar.py
       - name: verify full sentences (ASR)
         run: python check.py
       - run: |
